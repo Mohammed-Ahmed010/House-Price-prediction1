@@ -1,1 +1,1 @@
-# House-Price-prediction1
+# Linear and Logistic Regression
